@@ -1,2 +1,3 @@
 # Softcomp_p1
-Neural networks
+using Neural networks
+Estimation of NOx emissions from gas turbines
